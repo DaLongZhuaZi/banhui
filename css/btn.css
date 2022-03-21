@@ -1,0 +1,207 @@
+.btn
+{
+    background: #f0f0f000;
+    color: #333;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position: absolute;
+    left: 50px;
+    top: 150px;
+}
+.btn2
+{
+    background: #f0f0f000;
+    color: #333;
+    font-size: 56px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 50px;
+    top: 120px;
+}
+.btn3
+{
+    background: #f0f0f000;
+    color: #333;
+    font-size: 90px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 80px;
+    top: 150px;
+}
+.btn4
+{
+    background: #f0f0f000;
+    color: #333;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 10px;
+    top: 170px;
+}
+.btn5
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 110px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 80px;
+    top: 100px;
+}
+.btn6
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 110px;
+    top: 140px;
+}
+.btn7
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 80px;
+    top: 180px;
+}
+.btn8
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 20px;
+    top: 120px;
+}
+.btn9
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 80px;
+    top: 120px;
+}
+.btn10
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 80px;
+    top: 100px;
+}
+.btn16
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 110px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 10px;
+    top: 140px;
+}
+.btn17
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 99px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 40px;
+    top: 100px;
+}
+.btn18
+{
+    background: #f0f0f000;
+    color: #333333;
+    font-size: 10px;
+    font-family: "Microsoft YaHei";
+    cursor: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 0px;
+    border: 0px solid #000000;
+    position:absolute;
+    left: 50px;
+    top: 100px;
+}

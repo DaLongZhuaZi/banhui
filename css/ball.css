@@ -1,0 +1,569 @@
+body 
+{
+  background-image: linear-gradient(
+    to bottom right,
+    #91defe,
+    #99c0f9,
+    #bdb6ec,
+    #d7b3e3,
+    #efb3d5,
+    #f9bccc
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.ball {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball2 {
+  height: 390px;
+  width: 390px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball3 {
+  height: 470px;
+  width: 470px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball4 {
+  height: 420px;
+  width: 420px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball5 {
+  height: 410px;
+  width: 410px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball6 {
+  height: 460px;
+  width: 460px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball7 {
+  height: 320px;
+  width: 320px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball8 {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball9 {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball10 {
+  height: 370px;
+  width: 370px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball11 {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball12 {
+  height: 220px;
+  width: 220px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball13 {
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball14 {
+  height: 270px;
+  width: 270px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball15 {
+  height: 240px;
+  width: 240px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball16 {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball17 {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball18 {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+.ball19 {
+  height: 220px;
+  width: 220px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 75% 30%,
+    white 5px,
+    aqua 8%,
+    darkblue 60%,
+    aqua 100%
+  );
+  box-shadow: inset 0 0 20px #fff, inset 10px 0 46px #eaf5fc,
+    inset 88px 0px 60px #c2d8fe, inset -20px -60px 100px #fde9ea,
+    inset 0 50px 140px #fde9ea, 0 0 90px #fff;
+}
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-80px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+
+@keyframes expand {
+  0%,
+  100% {
+    transform: scale(0.5);
+  }
+
+  50% {
+    transform: scale(1);
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .ball {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball2 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball3 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball4 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball5 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball6 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball7 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball8 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball9 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball10 {
+    height: 240px;
+    width: 240px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball11 {
+    height: 20px;
+    width: 20px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball12 {
+    height: 100px;
+    width: 100px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball13 {
+    height: 100px;
+    width: 100px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball14 {
+    height: 100px;
+    width: 100px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball15 {
+    height: 100px;
+    width: 100px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball16 {
+    height: 200px;
+    width: 200px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball17 {
+    height: 200px;
+    width: 200px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball18 {
+    height: 200px;
+    width: 200px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+  .ball19 {
+    height: 100px;
+    width: 100px;
+    background: radial-gradient(
+      circle at 65% 35%,
+      white 5px,
+      aqua 15%,
+      darkblue 50%,
+      aqua 100%
+    );
+    
+  }
+}
+
+  @keyframes float {
+    0% {
+      transform: translatey(0px);
+    }
+    50% {
+      transform: translatey(-50px);
+    }
+    100% {
+      transform: translatey(0px);
+    }
+  }
